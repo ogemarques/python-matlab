@@ -50,12 +50,6 @@ Once again, similarly to what we saw in Task 1, a crucial component of the solut
 ## Requirements
 - [X]  [MATLAB 2021a](https://www.mathworks.com/products/matlab.html) or later
 - [X]  [Image Processing Toolbox](https://www.mathworks.com/products/image.html)
-
-## Suggested steps
-1. Download or clone the repository.
-2. Open MATLAB.
-3. Ensure that the files `AT2Scan.jpg` and `FakePred2.jpg` containing the test images for Part 2 are in the same folder as the `cpath_matlab.mlx` file. 
-4. Run the `cpath_matlab.mlx` script and inspect results.
 ## Additional remarks
 
 - You are encouraged to expand and adapt the example to your needs.
